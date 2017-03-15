@@ -1,4 +1,4 @@
-FROM frekele/gradle:3.4.1-jdk8
+FROM frekele/gradle:3.3-jdk8
 
 MAINTAINER skobow <skobow@diva-e.com>
 
